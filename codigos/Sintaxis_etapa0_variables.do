@@ -2,7 +2,7 @@
 *BENCHMARKING de IGED
 *********************
 *Javier Vargas
-*Kevin Aley
+
 ***********************
 clear all
 global ruta "F:\Propuesta\variables"
